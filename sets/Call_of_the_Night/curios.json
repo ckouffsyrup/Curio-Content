@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "set_id": "call_of_the_night_1784957059",
+  "curios": [
+    {
+      "id": "nazuna_nanakusa_1784957143",
+      "name": "Nazuna Nanakusa",
+      "rarity": "Common",
+      "description": "Are you satisfied with how you spend the day?",
+      "image": "images/nazuna_nanakusa_1784957143.jpg",
+      "enabled": true
+    },
+    {
+      "id": "suski_1784957168",
+      "name": "Suski",
+      "rarity": "Common",
+      "description": "who is she? Read the manga",
+      "image": "images/suski_1784957168.jpg",
+      "enabled": true
+    },
+    {
+      "id": "anko_uguisu_1784957059",
+      "name": "Anko Uguisu",
+      "rarity": "Common",
+      "description": "Can't handle booze",
+      "image": "images/anko_uguisu_1784957059.jpg",
+      "enabled": true
+    }
+  ]
+}
