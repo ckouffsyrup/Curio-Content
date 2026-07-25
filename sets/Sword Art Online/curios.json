@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "set_id": "sword_art_online",
+  "curios": [
+    {
+      "id": "kirito",
+      "name": "Kirito",
+      "rarity": "Legendary",
+      "description": "TRACE O- ...wait wrong anime I AM THE BONE OF M- ...still wrong what were the words again?",
+      "image": "images/kirito.jpg",
+      "enabled": true
+    },
+    {
+      "id": "agil",
+      "name": "Agil",
+      "rarity": "uncommon",
+      "description": "Just call me Tiffany",
+      "image": "images/agil.jpg",
+      "enabled": true
+    },
+    {
+      "id": "asuna_yuuki",
+      "name": "Asuna Yuuki",
+      "rarity": "common",
+      "description": "Rapier Queen",
+      "image": "images/asuna.jpg",
+      "enabled": true
+    }
+  ]
+}
