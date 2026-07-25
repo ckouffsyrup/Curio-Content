@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "content_version": 8,
+  "content_version": 9,
   "updated_at": "2026-07-25T00:00:00Z",
   "minimum_game_version": "0.6.5",
   "sets": [
@@ -52,6 +52,13 @@
       "version": 1,
       "enabled": true,
       "manifest": "sets/The Dokis/set.json"
+    },
+    {
+      "id": "you_know_ball_1784958482",
+      "name": "You Know Ball",
+      "version": 1,
+      "enabled": true,
+      "manifest": "sets/You Know Ball/set.json"
     }
   ]
 }
