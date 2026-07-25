@@ -1,0 +1,46 @@
+{
+  "format_version": 1,
+  "set_id": "the_dokis_1784954015",
+  "curios": [
+    {
+      "id": "natsuki_1784954174",
+      "name": "Natsuki",
+      "rarity": "Rare",
+      "description": "It's not like I wanted you to find me",
+      "image": "images/natsuki_1784954174.jpg",
+      "enabled": true
+    },
+    {
+      "id": "our_pen_1784954307",
+      "name": "Our Pen",
+      "rarity": "Mythic",
+      "description": "Oh there it is, why is it sticky?",
+      "image": "images/our_pen_1784954307.jpg",
+      "enabled": true
+    },
+    {
+      "id": "sayori_1784954015",
+      "name": "Sayori",
+      "rarity": "Legendary",
+      "description": "Just hanging out",
+      "image": "images/sayori_1784954015.jpg",
+      "enabled": true
+    },
+    {
+      "id": "yuri_1784954249",
+      "name": "Yuri",
+      "rarity": "Epic",
+      "description": "Have you seen my pen?",
+      "image": "images/yuri_1784954249.jpg",
+      "enabled": true
+    },
+    {
+      "id": "monika_1784954217",
+      "name": "Monika 1784954217",
+      "rarity": "Common",
+      "description": "",
+      "image": "images/monika_1784954217.jpg",
+      "enabled": true
+    }
+  ]
+}

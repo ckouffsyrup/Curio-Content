@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "set_id": "the_elden_lord_1784958689",
+  "curios": [
+    {
+      "id": "melania_1784958725",
+      "name": "Melania",
+      "rarity": "Common",
+      "description": "Did the rot lake come from her? If so where from?",
+      "image": "images/melania_1784958725.jpg",
+      "enabled": true
+    },
+    {
+      "id": "messmer_1784958753",
+      "name": "Messmer",
+      "rarity": "Common",
+      "description": "18 inches of pure snake",
+      "image": "images/messmer_1784958753.jpg",
+      "enabled": true
+    },
+    {
+      "id": "morgott_1784958689",
+      "name": "Morgott",
+      "rarity": "Common",
+      "description": "Dogs out barking",
+      "image": "images/morgott_1784958689.jpg",
+      "enabled": true
+    }
+  ]
+}
