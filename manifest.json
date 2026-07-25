@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "content_version": 6,
+  "content_version": 7,
   "updated_at": "2026-07-25T00:00:00Z",
   "minimum_game_version": "0.6.5",
   "sets": [
@@ -37,7 +37,14 @@
       "name": "Call of the Night",
       "version": 1,
       "enabled": true,
-      "manifest": "sets/Call_of_the_Night/set.json"
+      "manifest": "sets/Call of the Night/set.json"
+    },
+    {
+      "id": "the_elden_lord_1784958689",
+      "name": "The Elden Lord",
+      "version": 1,
+      "enabled": true,
+      "manifest": "sets/The Elden lord/set.json"
     }
   ]
 }
