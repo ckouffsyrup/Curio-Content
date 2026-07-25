@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "id": "fate",
+  "name": "Fate",
+  "description": "Unlimited Budget Works",
+  "version": 1,
+  "icon": "icon.jpg",
+  "curios": "curios.json",
+  "boost_multiplier": 4.0
+}

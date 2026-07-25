@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "set_id": "fate",
+  "curios": [
+    {
+      "id": "rin_tohsaka",
+      "name": "Rin Tohsaka",
+      "rarity": "rare",
+      "description": "Thick thighs save lives",
+      "image": "images/rin.jpg",
+      "enabled": true
+    },
+    {
+      "id": "shiro_emiya",
+      "name": "Shiro Emiya",
+      "rarity": "uncommon",
+      "description": "Saber's bride, Rin's husband, and Sakura's puppet",
+      "image": "images/shiro.jpg",
+      "enabled": true
+    },
+    {
+      "id": "saber",
+      "name": "Saber",
+      "rarity": "common",
+      "description": "EEEEEEEXXXXXX... CCCAAALLLIIIBBUUURRR",
+      "image": "images/saber.jpg",
+      "enabled": true
+    }
+  ]
+}
