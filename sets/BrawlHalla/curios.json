@@ -1,0 +1,134 @@
+{
+  "format_version": 1,
+  "set_id": "fate",
+  "curios": [
+    {
+      "id": "greatsword",
+      "name": "Greatsword",
+      "rarity": "Common",
+      "description": "TINK TINK TINK TINK TINK",
+      "image": "images/478px-Greatsword_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "battle_boots",
+      "name": "Battle Boots",
+      "rarity": "Common",
+      "description": "LET ME HIT YOU PLEASE",
+      "image": "images/479px-Battle_Boots_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "axe",
+      "name": "Axe",
+      "rarity": "Common",
+      "description": "Holy brainless",
+      "image": "images/480px-Axe_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "blasters",
+      "name": "Blasters",
+      "rarity": "Common",
+      "description": "Sigs is all you got tbh",
+      "image": "images/480px-Blasters_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "bow",
+      "name": "Bow",
+      "rarity": "Common",
+      "description": "Stop nuetral airing yo",
+      "image": "images/480px-Bow_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "cannon",
+      "name": "Cannon",
+      "rarity": "Common",
+      "description": "BOOM BOOM BOOM BOOM",
+      "image": "images/480px-Cannon_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "chakram",
+      "name": "Chakram",
+      "rarity": "Common",
+      "description": "SHING SHING SHING SHING",
+      "image": "images/480px-Chakram_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "gauntlets",
+      "name": "Gauntlets",
+      "rarity": "Common",
+      "description": "POW BOOM POW POW TINK BOOM",
+      "image": "images/480px-Gauntlets_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "grapple_hammer",
+      "name": "Grapple Hammer",
+      "rarity": "Common",
+      "description": "GA-TINK off map... why me yo",
+      "image": "images/480px-Grapple_Hammer_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "katars",
+      "name": "Katars",
+      "rarity": "Common",
+      "description": "Stop tryna do the infinite combo bum",
+      "image": "images/480px-Katars_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "orb",
+      "name": "Orb",
+      "rarity": "Common",
+      "description": "Idk how to type this sound out",
+      "image": "images/480px-Orb_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "rocket_lance",
+      "name": "Rocket Lance",
+      "rarity": "Common",
+      "description": "Just quit",
+      "image": "images/480px-Rocket_Lance_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "scythe",
+      "name": "Scythe",
+      "rarity": "Common",
+      "description": "Holy readable",
+      "image": "images/480px-Scythe_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "spear",
+      "name": "Spear",
+      "rarity": "Common",
+      "description": "Sig crutch",
+      "image": "images/480px-Spear_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "sword",
+      "name": "Sword",
+      "rarity": "Common",
+      "description": "SHING",
+      "image": "images/480px-Sword_Icon.png",
+      "enabled": true
+    },
+    {
+      "id": "unarmed",
+      "name": "Unarmed",
+      "rarity": "Common",
+      "description": "Goated",
+      "image": "images/480px-Unarmed_Icon.png",
+      "enabled": true
+    }
+  ]
+}
