@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "set_id": "example_set",
+  "curios": [
+    {
+      "id": "example_curio_01",
+      "name": "Example Curio",
+      "rarity": "Common",
+      "image": "images/example_curio_01.png",
+      "enabled": false
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "content_version": 1,
+  "updated_at": "2026-07-25T00:00:00Z",
+  "minimum_game_version": "0.6.5",
+  "sets": [
+    {
+      "id": "example_set",
+      "name": "Example Set",
+      "version": 1,
+      "enabled": false,
+      "manifest": "sets/example_set/set.json"
+    }
+  ]
+}
