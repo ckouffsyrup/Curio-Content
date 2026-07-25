@@ -37,28 +37,28 @@
       "name": "Call of the Night",
       "version": 1,
       "enabled": true,
-      "manifest": "sets/Call of the Night/set.json"
+      "manifest": "sets/Call_of_the_Night/set.json"
     },
     {
       "id": "the_elden_lord_1784958689",
       "name": "The Elden Lord",
       "version": 1,
       "enabled": true,
-      "manifest": "sets/The Elden lord/set.json"
+      "manifest": "sets/The_Elden_lord/set.json"
     },
     {
       "id": "the_dokis_1784954015",
       "name": "The Dokis",
       "version": 1,
       "enabled": true,
-      "manifest": "sets/The Dokis/set.json"
+      "manifest": "sets/The_Dokis/set.json"
     },
     {
       "id": "you_know_ball_1784958482",
-      "name": "You Know Ball",
+      "name": "You KnowBall",
       "version": 1,
       "enabled": true,
-      "manifest": "sets/You Know Ball/set.json"
+      "manifest": "sets/You_Know_Ball/set.json"
     }
   ]
 }
