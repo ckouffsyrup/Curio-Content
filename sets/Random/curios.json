@@ -15,7 +15,7 @@
       "name": "Traffic Cone",
       "rarity": "Common",
       "description": "Road work? More like road decoration.",
-      "image": "images/Traffic Cone.png",
+      "image": "images/Traffic_Cone.png",
       "enabled": true
     },
     {
@@ -39,7 +39,7 @@
       "name": "Cheese Wheel",
       "rarity": "Rare",
       "description": "Aged to perfection, maybe....",
-      "image": "images/Cheese Wheel.png",
+      "image": "images/Cheese_Wheel.png",
       "enabled": true
     },
     {
@@ -55,7 +55,7 @@
       "name": "Duck Tape",
       "rarity": "Uncommon",
       "description": "The universal solution.",
-      "image": "images/Duck Tape.png",
+      "image": "images/Duck_Tape.png",
       "enabled": true
     },
     {
@@ -71,7 +71,7 @@
       "name": "TV Remote",
       "rarity": "Common",
       "description": "Where did it go this time?",
-      "image": "images/TV Remote.png",
+      "image": "images/TV_Remote.png",
       "enabled": true
     },
     {
@@ -79,7 +79,7 @@
       "name": "Garden Hose",
       "rarity": "Common",
       "description": "Somehow always tangled",
-      "image": "images/Garden hose.png",
+      "image": "images/Garden_hose.png",
       "enabled": true
     },
     {
@@ -87,7 +87,7 @@
       "name": "Glow Sticks",
       "rarity": "Rare",
       "description": "Still glowing from 2016.",
-      "image": "images/Glow Sticks.png",
+      "image": "images/Glow_Sticks.png",
       "enabled": true
     },
     {
@@ -103,7 +103,7 @@
       "name": "Ceiling Fan",
       "rarity": "Rare",
       "description": "Big Fan of this one",
-      "image": "images/Ceiling Fan.png",
+      "image": "images/Ceiling_Fan.png",
       "enabled": true
     }
   ]
