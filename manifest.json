@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "content_version": 1,
+  "content_version": 3,
   "updated_at": "2026-07-25T00:00:00Z",
   "minimum_game_version": "0.6.5",
   "sets": [
@@ -10,6 +10,13 @@
       "version": 1,
       "enabled": true,
       "manifest": "sets/Sword_Art_Online/set.json"
+    },
+    {
+      "id": "fate",
+      "name": "Fate",
+      "version": 1,
+      "enabled": true,
+      "manifest": "sets/Fate/set.json"
     }
   ]
 }
