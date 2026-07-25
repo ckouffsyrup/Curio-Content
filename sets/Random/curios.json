@@ -1,0 +1,110 @@
+{
+  "format_version": 1,
+  "set_id": "random",
+  "curios": [
+    {
+      "id": "leafblower",
+      "name": "Leaf Blower",
+      "rarity": "Rare",
+      "description": "leaf blower noises",
+      "image": "images/leafblower.png",
+      "enabled": true
+    },
+    {
+      "id": "traffic_cone",
+      "name": "Traffic Cone",
+      "rarity": "Common",
+      "description": "Road work? More like road decoration.",
+      "image": "images/Traffic Cone.png",
+      "enabled": true
+    },
+    {
+      "id": "brick",
+      "name": "Brick",
+      "rarity": "Common",
+      "description": "Surprisingly collectible",
+      "image": "images/Brick.png",
+      "enabled": true
+    },
+    {
+      "id": "toaster",
+      "name": "Toaster",
+      "rarity": "Uncommon",
+      "description": "I don't want to swim with you...",
+      "image": "images/Toaster.png",
+      "enabled": true
+    },
+    {
+      "id": "cheese_wheel",
+      "name": "Cheese Wheel",
+      "rarity": "Rare",
+      "description": "Aged to perfection, maybe....",
+      "image": "images/Cheese Wheel.png",
+      "enabled": true
+    },
+    {
+      "id": "crowbar",
+      "name": "Crowbar",
+      "rarity": "Uncommon",
+      "description": "For completely legal activities.",
+      "image": "images/Crowbar.png",
+      "enabled": true
+    },
+    {
+      "id": "duck_tape",
+      "name": "Duck Tape",
+      "rarity": "Uncommon",
+      "description": "The universal solution.",
+      "image": "images/Duck Tape.png",
+      "enabled": true
+    },
+    {
+      "id": "microwave",
+      "name": "Microwave",
+      "rarity": "Rare",
+      "description": "Mmmmmmmmm... BEEP!",
+      "image": "images/Microwave.png",
+      "enabled": true
+    },
+    {
+      "id": "tv_remote",
+      "name": "TV Remote",
+      "rarity": "Common",
+      "description": "Where did it go this time?",
+      "image": "images/TV Remote.png",
+      "enabled": true
+    },
+    {
+      "id": "garden_hose",
+      "name": "Garden Hose",
+      "rarity": "Common",
+      "description": "Somehow always tangled",
+      "image": "images/Garden hose.png",
+      "enabled": true
+    },
+    {
+      "id": "glow_sticks",
+      "name": "Glow Sticks",
+      "rarity": "Rare",
+      "description": "Still glowing from 2016.",
+      "image": "images/Glow Sticks.png",
+      "enabled": true
+    },
+    {
+      "id": "plunger",
+      "name": "Plunger",
+      "rarity": "Uncommon",
+      "description": "A true household hero",
+      "image": "images/Plunger.png",
+      "enabled": true
+    },
+    {
+      "id": "ceiling_fan",
+      "name": "Ceiling Fan",
+      "rarity": "Rare",
+      "description": "Big Fan of this one",
+      "image": "images/Ceiling Fan.png",
+      "enabled": true
+    }
+  ]
+}
