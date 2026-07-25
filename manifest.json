@@ -5,11 +5,11 @@
   "minimum_game_version": "0.6.5",
   "sets": [
     {
-      "id": "example_set",
-      "name": "Example Set",
+      "id": "sword_art_online",
+      "name": "Sword Art Online",
       "version": 1,
-      "enabled": false,
-      "manifest": "sets/example_set/set.json"
+      "enabled": true,
+      "manifest": "sets/Sword Art Online/set.json"
     }
   ]
 }
