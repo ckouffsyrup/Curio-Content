@@ -1,0 +1,158 @@
+{
+  "format_version": 1,
+  "set_id": "corrupted_cache",
+  "curios": [
+    {
+      "id": "404_error",
+      "name": "404 Error",
+      "rarity": "Common",
+      "description": "You weren't supposed to see this.",
+      "image": "images/404_Error.png",
+      "enabled": true
+    },
+    {
+      "id": "syntax_error",
+      "name": "Syntax Error",
+      "rarity": "Common",
+      "description": "Missing semicolon... probably.",
+      "image": "images/Syntax_Error.png",
+      "enabled": true
+    },
+    {
+      "id": "access_denied",
+      "name": "Access Denied",
+      "rarity": "Common",
+      "description": "Nice try.",
+      "image": "images/Access_Denied.png",
+      "enabled": true
+    },
+    {
+      "id": "invalid_input",
+      "name": "Invalid Input",
+      "rarity": "Common",
+      "description": "Try again.",
+      "image": "images/Invalid_Input.png",
+      "enabled": true
+    },
+    {
+      "id": "stack_overflow",
+      "name": "Stack Overflow",
+      "rarity": "Common",
+      "description": "Oops.",
+      "image": "images/Stack_Overflow.png",
+      "enabled": true
+    },
+    {
+      "id": "blue_screen",
+      "name": "Blue Screen",
+      "rarity": "Uncommon",
+      "description": "We'll collect your curiosity...",
+      "image": "images/Blue_Screen.jpg",
+      "enabled": true
+    },
+    {
+      "id": "null_reference",
+      "name": "Null Reference",
+      "rarity": "Uncommon",
+      "description": "Object not set.",
+      "image": "images/Null_Reference.png",
+      "enabled": true
+    },
+    {
+      "id": "crash_report",
+      "name": "Crash Report",
+      "rarity": "Uncommon",
+      "description": "Would you like to send this?",
+      "image": "images/Crash_Report.png",
+      "enabled": true
+    },
+    {
+      "id": "segmentation_fault",
+      "name": "Segmentation Fault",
+      "rarity": "Uncommon",
+      "description": "Core dumped",
+      "image": "images/Segmentation_Fault.png",
+      "enabled": true
+    },
+    {
+      "id": "connection_timed_out",
+      "name": "Connection Timed Out",
+      "rarity": "Uncommon",
+      "description": "Hello?.....Hello????",
+      "image": "images/Connection_Timed_Out.png",
+      "enabled": true
+    },
+    {
+      "id": "kernel_panic",
+      "name": "Kernel Panic",
+      "rarity": "Rare",
+      "description": "Everything is fine. (It isn't.)",
+      "image": "images/Kernel_Panic.png",
+      "enabled": true
+    },
+    {
+      "id": "fatal_exception",
+      "name": "Fatal Exception",
+      "rarity": "Rare",
+      "description": "This wasn't in the tutorial.",
+      "image": "images/Fatal_Exception.jpg",
+      "enabled": true
+    },
+    {
+      "id": "corrupt_save",
+      "name": "Corrupt Save",
+      "rarity": "Rare",
+      "description": "Hours of progress... gone.",
+      "image": "images/Corrupt_Save.png",
+      "enabled": true
+    },
+    {
+      "id": "gpu_driver_timeout",
+      "name": "Gpu Driver Timeout",
+      "rarity": "Rare",
+      "description": "Burn the GPU, you don't even need it.",
+      "image": "images/GPU_Driver_Timeout.png",
+      "enabled": true
+    },
+    {
+      "id": "memory_leak",
+      "name": "Memory Leak",
+      "rarity": "Rare",
+      "description": "Where'd all my RAM go??",
+      "image": "images/Memory_Leak.webp",
+      "enabled": true
+    },
+    {
+      "id": "infinite_loading",
+      "name": "Infinite Loading",
+      "rarity": "Epic",
+      "description": "99%...",
+      "image": "images/Infinite_Loading.webp",
+      "enabled": true
+    },
+    {
+      "id": "missing_dll",
+      "name": "Missing Dll",
+      "rarity": "Epic",
+      "description": "One file ruined your day.",
+      "image": "images/Missing_DLL.png",
+      "enabled": true
+    },
+    {
+      "id": "bios_failure",
+      "name": "Bios Failure",
+      "rarity": "Epic",
+      "description": "Beep... Beep... Beep...",
+      "image": "images/BIOS_Failure.webp",
+      "enabled": true
+    },
+    {
+      "id": "internal_server_error",
+      "name": "Internal Server Error",
+      "rarity": "Epic",
+      "description": "The server had a bad day.",
+      "image": "images/Internal_Server_Error.webp",
+      "enabled": true
+    }
+  ]
+}
