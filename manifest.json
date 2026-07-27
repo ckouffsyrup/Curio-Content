@@ -66,6 +66,13 @@
       "version": 1,
       "enabled": true,
       "manifest": "sets/Corrupted_Cache/set.json"
+    },
+    {
+      "id": "the_chairs",
+      "name": "The Chairs",
+      "version": 1,
+      "enabled": true,
+      "manifest": "sets/The_Chairs/set.json"
     }
   ]
 }
