@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "content_version": 13,
-  "updated_at": "2026-07-25T00:00:00Z",
+  "content_version": 14,
+  "updated_at": "2026-07-26T09:44:00Z",
   "minimum_game_version": "0.6.5",
   "sets": [
     {
@@ -70,6 +70,13 @@
     {
       "id": "the_chairs",
       "name": "The Chairs",
+      "version": 1,
+      "enabled": true,
+      "manifest": "sets/The_Chairs/set.json"
+    },
+    {
+      "id": "the_lands_that_border",
+      "name": "The Lands That Border",
       "version": 1,
       "enabled": true,
       "manifest": "sets/The_Chairs/set.json"
