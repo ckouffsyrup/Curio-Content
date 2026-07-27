@@ -3,7 +3,7 @@
   "id": "the_lands_that_border",
   "name": "The Lands That Border",
   "description": "Ain't no place for a hero",
-  "version": 1,
+  "version": 2,
   "icon": "icon.jpg",
   "curios": "curios.json",
   "boost_multiplier": 4.0
