@@ -1,0 +1,46 @@
+{
+  "format_version": 1,
+  "set_id": "the_chairs",
+  "curios": [
+    {
+      "id": "wooden_chair",
+      "name": "Wooden Chair",
+      "rarity": "Common",
+      "description": "Watch out for my splinters.",
+      "image": "images/Wooden_Chair.png",
+      "enabled": true
+    },
+    {
+      "id": "office_chair",
+      "name": "Office Chair",
+      "rarity": "Uncommon",
+      "description": "Watch out for sweat stains.",
+      "image": "images/Office_Chair.png",
+      "enabled": true
+    },
+    {
+      "id": "pink_gaming_chair",
+      "name": "Pink Gaming Chair",
+      "rarity": "Epic",
+      "description": "Make all the other gamers cower before you.",
+      "image": "images/Pink_Gaming_Chair.webp",
+      "enabled": true
+    },
+    {
+      "id": "throne",
+      "name": "Throne",
+      "rarity": "Legendary",
+      "description": "Fit for only Kings.",
+      "image": "images/Throne.webp",
+      "enabled": true
+    },
+    {
+      "id": "gothic_throne",
+      "name": "Gothic Throne",
+      "rarity": "Mythic",
+      "description": "Fir for the best Queens.",
+      "image": "images/Gothic_Throne.webp",
+      "enabled": true
+    }
+  ]
+}

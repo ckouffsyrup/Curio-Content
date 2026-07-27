@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "id": "the_chairs",
+  "name": "The Chairs",
+  "description": "Only Chairs - TM",
+  "version": 1,
+  "icon": "icon.png",
+  "curios": "curios.json",
+  "boost_multiplier": 4.0
+}
