@@ -1,0 +1,102 @@
+{
+  "format_version": 1,
+  "set_id": "the_hampters",
+  "curios": [
+    {
+      "id": "yippie",
+      "name": "YIPPIE",
+      "rarity": "Common",
+      "description": "YAY",
+      "image": "images/IMG_1900.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "yaaaaa",
+      "name": "YAAAAA",
+      "rarity": "Uncommon",
+      "description": "YAAAAAA *tongue emote*",
+      "image": "images/IMG_1899.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "erm_actually",
+      "name": "Erm Actually ",
+      "rarity": "Epic",
+      "description": "Erm actually... theoretically... ",
+      "image": "images/IMG_1898.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "1897",
+      "name": "1897",
+      "rarity": "Rare",
+      "description": "",
+      "image": "images/IMG_1897.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "tee_hee",
+      "name": "TEE HEEE TEEE HEEE",
+      "rarity": "Common",
+      "description": "TEE HEE TEE HEEE",
+      "image": "images/IMG_1896.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "mmmm",
+      "name": "Mmmmmm",
+      "rarity": "Legendary",
+      "description": "You got something I WANT",
+      "image": "images/IMG_1895.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "duh",
+      "name": "Duhhhhhh",
+      "rarity": "Common",
+      "description": "Duuhhhhh..... derrrrrrrr.... duhhhhh",
+      "image": "images/IMG_1894.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "why",
+      "name": "WHHYYYYY",
+      "rarity": "Uncommon",
+      "description": "WHY ME.. WHY MEEEEE",
+      "image": "images/IMG_1901.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "eww",
+      "name": "Ewwww",
+      "rarity": "Epic",
+      "description": "What's wrong with you, why do you look like that???",
+      "image": "images/IMG_1902.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "rahhhh",
+      "name": "RAAAHHHHHHHH",
+      "rarity": "Common",
+      "description": "IM SO MAD RN RAHHHHHHH",
+      "image": "images/IMG_1903.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "ahhh",
+      "name": "AAAHHHHHHHH",
+      "rarity": "Mythic",
+      "description": "WHATS HAPPENING TO ME",
+      "image": "images/IMG_1904.jpeg",
+      "enabled": true
+    },
+    {
+      "id": "help_me",
+      "name": "Help... me....",
+      "rarity": "Rare",
+      "description": "BEEEPPP... BEEEPPPP.... BEEEEPPP.. flatline...",
+      "image": "images/IMG_1905.jpeg",
+      "enabled": true
+    }
+  ]
+}
